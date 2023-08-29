@@ -15,16 +15,19 @@ Welcome to the "Flip Coin" project repository! This project is a simple virtual 
 
    ```bash
    git clone https://github.com/your-user/flip-coin.git
+   ```
 
 
    
 ## Navigate to the project directory:
 
-```bash
-cd FlipCoin
+   ```bash
+   cd FlipCoin
+   ```
 
 
 ## Usage
+
 1. Open the application in your browser.
 2. Click the "Flip" button to flip the coin.
 3. The result of the flip (heads or tails) will be displayed.
